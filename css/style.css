@@ -751,6 +751,11 @@ main {
   border-radius: 5px;
 }
 
+.text__hashtags--error {
+  background-color: #ffa4a4;
+  border-color: #ffa4a4;
+}
+
 .text__description {
   width: 450px;
   height: 100px;
